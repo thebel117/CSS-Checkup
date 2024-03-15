@@ -6,7 +6,7 @@
     border-color: black;
     margin-top: relative;
     margin-bottom: 300px;
-    background: linear-gradient(to left, black, white)
+    background: linear-gradient(to top, rgb(100, 100, 100), white)
 }
 
 body{
@@ -43,14 +43,15 @@ body{
 .A01{
     color: white;
     -webkit-text-stroke-color: black;
-    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-width: 1.2px;
     font-size: 35px;
     font-style:bold;
     text-decoration: underline;
 }
 
 .B01{
-    font-size: 22px;
+    color: #7f0400;
+    font-size: 24px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: lighter;
     font-style: italic;
