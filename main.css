@@ -1,0 +1,54 @@
+.wrapper {
+    border-width: 16px;
+    border-color: black;
+    margin-top: relative;
+    margin-bottom: relative;
+    background-color: rgb(242, 160, 160)
+}
+
+.How {
+    font-size: 48px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-weight: bold;
+    color:cornsilk
+}
+
+#Can {
+    background: linear-gradient(to bottom, #ffe8d4, #f63c3c);
+    border: 1px solid #696969;
+    padding: 7px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 1px rgb(40, 0, 0);
+}
+
+#Can {
+    font-weight: light;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#A01{
+    font-size: x-large;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+#A02{
+    font-size: x-large;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+#A03{
+    font-size: x-large;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+#A04{
+    font-size: x-large;
+    font-style: italic;
+    text-decoration: underline;
+}
